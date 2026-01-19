@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @Sanjay-creates
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Sanjay 👋
 
-<!---
-Sanjay-creates/Sanjay-creates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+🚀 Software Engineer | Backend Developer
+
+
+I am a passionate backend-focused developer who loves building real-world projects and learning how scalable systems work.
+
+
+---
+
+
+## 🧠 Skills
+
+
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL (basic)
+- Frontend: HTML, CSS, JavaScript
+- Tools: Git, GitHub, VS Code
+
+
+---
+
+
+## 📈 Currently Learning
+- Advanced Backend Development
+- APIs & Authentication
+- System Design Basics
+
+
+---
+
+
+## 🤝 Connect With Me
+
+
+- [(https://www.linkedin.com/in/iamsanjay7/)](https://www.linkedin.com/in/iamsanjay7/)
+
