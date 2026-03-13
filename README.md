@@ -16,7 +16,7 @@ I am a passionate backend-focused developer who loves building real-world projec
 - Backend: Node.js, Express.js
 - Database: MongoDB, MySQL (basic)
 - Frontend: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code
+- Tools: Git, GitHub, VS Code, Ai
 
 
 ---
