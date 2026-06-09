@@ -1,38 +1,27 @@
 # Hi, I'm Sanjay 👋
 
+🚀 Aspiring Software Tester | QA Engineer
 
-🚀 Software Engineer | Backend Developer
-
-
-I am a passionate backend-focused developer who loves building real-world projects and learning how scalable systems work.
-
+I am a detail-oriented aspiring software tester passionate about ensuring software quality, hunting down bugs, and understanding how to break code to make it stronger. I love building real-world projects and learning how to deliver reliable, user-friendly software systems.
 
 ---
-
 
 ## 🧠 Skills
 
-
-- Backend: Node.js, Express.js
-- Database: MongoDB, MySQL (basic)
-- Frontend: HTML, CSS, JavaScript
-- Tools: Git, GitHub, VS Code, Ai
-
-
+- **Testing Concepts:** Manual Testing, Functional Testing, Bug Reporting, Test Cases
+- **Languages:** Java
+- **Tools:** Git, GitHub, VS Code, Selenium, Postman
+- 
 ---
-
 
 ## 📈 Currently Learning
-- Advanced Backend Development
-- APIs & Authentication
-- System Design Basics
 
+- Automation Testing (Selenium)
+- API Testing & Authentication (Postman)
+- Software Development Life Cycle (SDLC) & Agile Methodologies
 
 ---
-
 
 ## 🤝 Connect With Me
 
-
-- [(https://www.linkedin.com/in/iamsanjay7/)](https://www.linkedin.com/in/iamsanjay7/)
-
+- [LinkedIn](https://www.linkedin.com/in/iamsanjay7/)
