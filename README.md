@@ -2,7 +2,7 @@
 
 🎓 3rd Year Computer Science Engineering Student  
 💻 Aspiring Software Engineer  
-🌱 Currently learning Full Stack Development
+🌱 Currently learning java Full Stack Development
 
 ## 🚀 Tech Stack
 
